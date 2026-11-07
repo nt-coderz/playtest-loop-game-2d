@@ -1,0 +1,6 @@
+{
+  "name": "PlaytestLoop — Closed-Loop LLM Game Synthesis & Runtime Verification",
+  "description": "Closed-loop 2D game synthesis, deterministic headless playtesting, swept-AABB assertion engine, automated bug triage, and regression-guarded LLM patching workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
